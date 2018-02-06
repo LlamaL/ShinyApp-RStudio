@@ -1,2 +1,3 @@
 # ShinyApp-RStudio
-A R Package built on Shiny App
+The project is for personal practice.
+To see the online version of the app. Click http://lamal.shinyapps.io/ShinyApp.
